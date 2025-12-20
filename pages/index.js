@@ -1,9 +1,12 @@
 function Home() {
   return (
-    <h1>
-      ois mel! tô testando umas coisas aqui e passando pra te lembrar que te
-      amo! ❤️ té daqui a pouco!
-    </h1>
+    <div>
+      <h1>
+        notas para meu eu do futuro: <br/>
+        tô muito orgulhosa da sua evolução ❤️ <br/>
+        espero continuar a avançar sempre assim, aos poucos, de bouinhas!<br/>
+      </h1>
+    </div>
   );
 }
 
